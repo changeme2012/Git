@@ -3,5 +3,7 @@ public class GitTest {
         System.out.println("Hello Git");
         System.out.println("Hello lc");
         System.out.println("Hello lf");
+        // 窗口输入
+        System.out.println("hot-fix test");
     }
 }
